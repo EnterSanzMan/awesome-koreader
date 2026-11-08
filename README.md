@@ -106,6 +106,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [rakuyomi](https://github.com/hanatsumi/rakuyomi) — Full-featured manga reader plugin: browse, search, and download manga from multiple online sources.
 - [comicreader.koplugin](https://github.com/KORComic/comicreader.koplugin) — Enhance comic and paged document reading with dual-page view (22+ ⭐).
 - [comicmeta.koplugin](https://github.com/KORComic/comicmeta.koplugin) — Extract metadata from CBZ/CBR files as custom metadata (21+ ⭐).
+- [Viñeta](https://github.com/EnterSanzMan/vineta_koreader) - Panel-by-panel comic reader with background automatic and zoom.
 
 ## Plugins — RSS & Read-It-Later
 
